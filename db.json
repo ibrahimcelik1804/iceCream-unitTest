@@ -1,0 +1,48 @@
+
+{
+  "scoops": [
+    {
+      "name": "Mint chip",
+      "imagePath": "/icecreamImage/mint-chip.png"
+    },
+    {
+      "name": "Vanilla",
+      "imagePath": "/icecreamImage/vanilla.png"
+    },
+    {
+      "name": "Chocolate",
+      "imagePath": "/icecreamImage/chocolate.png"
+    },
+    {
+      "name": "Salted caramel",
+      "imagePath": "/icecreamImage/salted-caramel.png"
+    }
+  ],
+
+  "toppings": [
+    {
+      "name": "M&Ms",
+      "imagePath": "/icecreamImage/m-and-ms.png"
+    },
+    {
+      "name": "Hot fudge",
+      "imagePath": "/icecreamImage/hot-fudge.png"
+    },
+    {
+      "name": "Peanut butter cups",
+      "imagePath": "/icecreamImage/peanut-butter-cups.png"
+    },
+    {
+      "name": "Gummi bears",
+      "imagePath": "/icecreamImage/gummi-bears.png"
+    },
+    {
+      "name": "Mochi",
+      "imagePath": "/icecreamImage/mochi.png"
+    },
+    {
+      "name": "Cherries",
+      "imagePath": "/icecreamImage/cherries.png"
+    }
+  ]
+}
